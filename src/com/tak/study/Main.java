@@ -29,6 +29,7 @@ public class Main {
         System.out.println(all);
     }
 
+
 //      함수를 구현하는 것이므로 정답은 아래 코드
 //    long sum(int[] a) {
 //        long sum = 0;	// a 배열 정수 합 변수
